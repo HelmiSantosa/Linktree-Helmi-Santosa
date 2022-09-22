@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+    width:fit-content;
+    align-items: center;
+}
+
+.content {
+    margin-top: 100px;
+    align-content:center;
+}
+
+.logo-profil {
+    size: 300px;
+    border-image: round;
+    image-resolution: 200px;
+    width: 200px;
+    height: 200px;
+}
+
+.profil {
+    font-size: medium;
+    text-align: center;
+}
+
+.tele {
+    width: 300px;
+    height: 50px;
+    background-color: darkgray;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    text-decoration-color: white;
+    border-radius: 20px;
+    border-color:transparent;
+}
